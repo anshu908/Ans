@@ -40,7 +40,7 @@ def webhook():
 
 # बॉट स्टार्ट करने वाला मेथड
 def run():
-    bot_app.bot.set_webhook(url=WEBHOOK_URL)
+    bot_app.bot.set_webhook(url=ancient-franky-krishna00-b7faf7b1.koyeb.app/)
     print(f"Webhook set at {WEBHOOK_URL}")
     app.run(host="0.0.0.0", port=8000)
 
