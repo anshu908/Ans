@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 
 # अपना BotFather से मिला टोकन यहां डालें
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "8007060492:AAFNr28xUM6QnX4w6AIRrj2Um43ZpEa_5ZU"
 
 # स्टार्ट कमांड का फंक्शन
 async def start(update: Update, context: CallbackContext):
